@@ -12,5 +12,5 @@ https://github.com/MinCiencia/Datos-COVID19
 
 HERRAMIENTAS UTILIZADAS PARA LA ELABORACIÓN DEL GRÁFICO
 
-- Cuaderno Google Colab ejecutando Python3
+- Cuaderno Google Colab ejecutando Python3 --> https://github.com/Arander/CasosDiarios/blob/main/COVID_Casos_CHILE.ipynb
 - Biblioteca PLOTLY para visualización de datos y creación de página web con el gráfico
