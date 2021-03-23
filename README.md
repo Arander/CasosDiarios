@@ -13,4 +13,4 @@ https://github.com/MinCiencia/Datos-COVID19
 HERRAMIENTAS UTILIZADAS PARA LA ELABORACIÓN DEL GRÁFICO
 
 - Cuaderno Google Colab ejecutando Python3
-- Biblioteca PLOTLY para visualización de datos
+- Biblioteca PLOTLY para visualización de datos y creación de página web con el gráfico
